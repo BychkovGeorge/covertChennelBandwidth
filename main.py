@@ -12,7 +12,7 @@ for n in range(1000):
         h = 0
         for n_temp in range(n + 1):
             if n_temp != 0:
-                h += ((1 / n_temp) * math.log2(1 / n_temp)) * (-1)
+                h += ((1 / n) * math.log2(1 / n)) * (-1)
         res_temp = h / t
         if res_temp > res:
             res = res_temp
