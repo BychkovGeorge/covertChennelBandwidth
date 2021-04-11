@@ -12,6 +12,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c4bdfb1-f39e-440e-99c9-805530d07f90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="homework" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -98,7 +99,7 @@
       <updated>1618142908815</updated>
       <workItem from="1618142909871" duration="3085000" />
       <workItem from="1618150005251" duration="3000" />
-      <workItem from="1618150343531" duration="7232000" />
+      <workItem from="1618150343531" duration="7903000" />
     </task>
     <servers />
   </component>
@@ -118,25 +119,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="214" key="GridCell.Tab.0.bottom" timestamp="1618156990393">
+    <state width="1877" height="213" key="GridCell.Tab.0.bottom" timestamp="1618161952369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="214" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618156990393" />
-    <state width="1877" height="214" key="GridCell.Tab.0.center" timestamp="1618156990392">
+    <state width="1877" height="213" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618161952369" />
+    <state width="1877" height="213" key="GridCell.Tab.0.center" timestamp="1618161952369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="214" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618156990392" />
-    <state width="1877" height="214" key="GridCell.Tab.0.left" timestamp="1618156990392">
+    <state width="1877" height="213" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618161952369" />
+    <state width="1877" height="213" key="GridCell.Tab.0.left" timestamp="1618161952369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="214" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618156990392" />
-    <state width="1877" height="214" key="GridCell.Tab.0.right" timestamp="1618156990393">
+    <state width="1877" height="213" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618161952369" />
+    <state width="1877" height="213" key="GridCell.Tab.0.right" timestamp="1618161952369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="214" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618156990393" />
+    <state width="1877" height="213" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618161952369" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/homework$main.coverage" NAME="main Coverage Results" MODIFIED="1618147185453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$main.coverage" NAME="main Coverage Results" MODIFIED="1618161940499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/homework$test.coverage" NAME="test Coverage Results" MODIFIED="1618156990388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../.." />
   </component>
 </project>
